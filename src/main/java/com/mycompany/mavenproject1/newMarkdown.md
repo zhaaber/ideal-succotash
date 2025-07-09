@@ -19,3 +19,9 @@ This plugin adds some additional features to Apache Netbeans Markdown Editor.
 
 - [x] Option 1
 - [ ] Option 2
+
+test
+
+```java
+public class NewClass {}
+```
